@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at :
  [![LinkedIn](https://img.shields.io/badge/-Shahad_Alnami-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadalnami/)
- [![Gmail](https://img.shields.io/badge/Gmail-ff6e97?style=flat&logo=gmail&logoColor=white)](shahadnamialnami@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Shahadnamialnami@gmail.com-ff6e97?style=flat&logo=gmail&logoColor=white)](shahadnamialnami@gmail.com)
 
 <br>
 <h2>Skills </h2>
