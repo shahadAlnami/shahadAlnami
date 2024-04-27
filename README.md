@@ -51,8 +51,7 @@
 <br>
 <h2>GitHub Stats </h2>
  
-![Shahad's github stats](https://github-readme-stats.vercel.app/api?username=ShahadAlnami&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahadAlnami&theme=dracula)](https://git.io/streak-stats)  
+![Shahad's github stats](https://github-readme-stats.vercel.app/api?username=ShahadAlnami&show_icons=true&theme=dracula)  
 
 <br>
 
