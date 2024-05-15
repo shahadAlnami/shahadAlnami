@@ -25,7 +25,6 @@
 - Testing
 ![UI_Testing](https://img.shields.io/badge/-UI_Testing-525252?style=flat&logo=UI_Testing)
 ![API_Testing](https://img.shields.io/badge/-API_Testing-525252?style=flat&logo=API_Testing)
-![DB_Testing](https://img.shields.io/badge/-DB_Testing-525252?style=flat&logo=DB_Testing)
 
 - Testing/Development Tools
 ![Selenium](https://img.shields.io/badge/-selenium-525252?style=flat&logo=selenium)
@@ -46,12 +45,4 @@
 ![Asana](https://img.shields.io/badge/Asana-525252?style=flat&logo=Asana)
 ![Miro](https://img.shields.io/badge/Miro-525252?style=flat&logo=Miro)
 ![Agile](https://img.shields.io/badge/Agile-525252?style=flat&logo=Agile)
-
-
-<br>
-<h2>GitHub Stats </h2>
- 
-![Shahad's github stats](https://github-readme-stats.vercel.app/api?username=ShahadAlnami&show_icons=true&theme=dracula)  
-
-<br>
 
